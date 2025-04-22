@@ -12,3 +12,6 @@ N8N抓取新聞(RSS)、處理摘要(AI agent)、存入mongoDB
 ### 前端[index.html]:
 參考bootstrap-album模板進行配置和修改\
 透過server.js建置後端API引入mongoDB資料
+
+>[!NOTE]
+下載zip檔並解壓縮後 記得打開終端執行 ```node server.js``` 以呼叫server
